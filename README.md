@@ -1,11 +1,12 @@
 # news_app
 
 A News Application
-![Screenshot_1645760036](https://user-images.githubusercontent.com/82487125/155649359-551d948a-3ec3-47e1-a1b8-c1e4494f4914.png)
-![Screenshot_1645760040](https://user-images.githubusercontent.com/82487125/155649376-6ec7e954-30d3-4ff5-aa29-166953dec3c0.png)
-![Screenshot_1645760056](https://user-images.githubusercontent.com/82487125/155649377-9ca0a08e-292e-4794-9d82-a382bd5f829a.png)
-![Screenshot_1645760064](https://user-images.githubusercontent.com/82487125/155649379-0a42773c-d1e2-464f-ac04-263b4b9c9162.png)
-![Screenshot_1645760074](https://user-images.githubusercontent.com/82487125/155649381-1909671b-34bd-4f42-9684-c4e11f4ceeb1.png)
-![Screenshot_1645760078](https://user-images.githubusercontent.com/82487125/155649387-2158bd4f-f9b7-4f87-b867-15791b7ff162.png)
-![Screenshot_1645760081](https://user-images.githubusercontent.com/82487125/155649395-8eba271b-2b29-4cc4-a979-a8aac67a4bf5.png)
-![Screenshot_1645760097](https://user-images.githubusercontent.com/82487125/155649401-ac33349e-36fb-4ee7-b6e7-486f91529b46.png)
+![Screenshot_1645760810](https://user-images.githubusercontent.com/82487125/155650087-36c809d0-87cf-4606-b638-c56d92a3a3ac.png)
+![Screenshot_1645760825](https://user-images.githubusercontent.com/82487125/155650097-ee63d2d9-7caf-4c55-823b-bc9a5cc784f5.png)
+![Screenshot_1645760097](https://user-images.githubusercontent.com/82487125/155650083-cfbbc1eb-ed90-4253-ab25-ab7e262d41b9.png)
+![Screenshot_1645760830](https://user-images.githubusercontent.com/82487125/155650101-0e6661c5-2926-4e58-bf3d-1ebe85df189e.png)
+![Screenshot_1645760832](https://user-images.githubusercontent.com/82487125/155650106-18bff1e4-cf81-4b3c-84d2-50bc9115e43a.png)
+![Screenshot_1645760845](https://user-images.githubusercontent.com/82487125/155650108-d2098056-59a5-4174-b46f-d20649840ebc.png)
+![Screenshot_1645760856](https://user-images.githubusercontent.com/82487125/155650117-05e07dc6-78df-4f84-ab08-080ef75f92f5.png)
+![Screenshot_1645760868](https://user-images.githubusercontent.com/82487125/155650116-b3121f5a-62f1-4d72-be77-3f743de9fb58.png)
+![Screenshot_1645760884](https://user-images.githubusercontent.com/82487125/155650115-042470a2-99ab-47ff-a8f3-414ad96de760.png)
